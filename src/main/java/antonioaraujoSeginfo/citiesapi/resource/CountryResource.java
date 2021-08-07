@@ -3,7 +3,6 @@ package antonioaraujoSeginfo.citiesapi.resource;
 import antonioaraujoSeginfo.citiesapi.entity.Country;
 import antonioaraujoSeginfo.citiesapi.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
